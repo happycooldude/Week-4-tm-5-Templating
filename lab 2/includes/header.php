@@ -1,5 +1,8 @@
-<!-- jouw HTML voor een Header komt hier... 
-Gebruik hier tenminste een header afbeelding en een menu
-Zorg dat je in het menu bij elk item een url parameter zet
-om te bepalen welke inhoud er ingeladen moet worden in je html
--->
+    <header>
+        <div id="menu">
+            <a href="index.php?id=1">Client server</a>
+            <a href="index.php?id=2">mysql</a>
+            <a href="index.php?id=3">Pdo</a>
+            <a href="index.php?id=4">Php</a>
+        </div>
+    </header>

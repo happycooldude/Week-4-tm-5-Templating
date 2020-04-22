@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 20px;
+    padding-left: 20px;
+    color: black;
+}
+
+#menu{
+    background-color: green;
+    margin: 0 auto;
+    height: 40px;
+}
+
+img{
+    float: right;
+}
+
+#inhoud{
+    width: 400px;
+}
+
+p{
+    color: black;
+}
